@@ -13,7 +13,7 @@
 
 # Documentación / Documentation
 
-https://wertymsd.github.io/Centralita_IA ForceManager/
+https://wertymsd.github.io/Centralita_IA_forcemanager/
 
 https://github.com/wertyMSD/Centralita_IA_forcemanager
 
