@@ -1,21 +1,21 @@
 
 # Visión general / Overview
 
-## *BIENVENIDO A LA DOCUMENTACIÓN DE CENTRALITA IA ForceManager*
+## *BIENVENIDO A LA DOCUMENTACIÓN DE CENTRALITA IA HOLDED*
 
-    La integración con ForceManager le aporta mayores beneficios en sus comunicaciones porque le permite mejorar 
+    La integración con holded le aporta mayores beneficios en sus comunicaciones porque le permite mejorar 
     la gestión de tiempo y de los recursos. Esta integración de la centralita usando terminales Android destaca por 
     la marcación de un solo clic al lanzar las llamadas, registro automático con la información detallada de las 
     llamadas, hs y mucho más, que garantiza que tenga todos los datos de los clientes a mano y sea más efectiva 
-    las comunicaciones. Apertura automatica de la ficha en ForceManager con contenga el numero entrante o saliente.
+    las comunicaciones. Apertura automatica de la ficha en holded con contenga el numero entrante o saliente.
     Consulta de la base de datos de empresa y relleno de datos comerciales de forma rapida y sencilla.
 
 
 # Documentación / Documentation
 
-https://wertymsd.github.io/Centralita_IA_forcemanager/
+https://wertymsd.github.io/Centralita_IA_holded/
 
-https://github.com/wertyMSD/Centralita_IA_forcemanager
+https://github.com/wertyMSD/Centralita_IA_holded
 
 
 # Requisitos Previos / Prerequisites
