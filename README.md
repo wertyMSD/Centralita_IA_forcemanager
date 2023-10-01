@@ -1,7 +1,7 @@
 
 # Visión general / Overview
 
-## *BIENVENIDO A LA DOCUMENTACIÓN DE CENTRALITA IA HOLDED*
+## *BIENVENIDO A LA DOCUMENTACIÓN DE CENTRALITA IA Forcemanager*
 
     La integración con holded le aporta mayores beneficios en sus comunicaciones porque le permite mejorar 
     la gestión de tiempo y de los recursos. Esta integración de la centralita usando terminales Android destaca por 
@@ -12,10 +12,10 @@
 
 
 # Documentación / Documentation
+[DESCARGA DE PROGRAMA CENTRALITA](https://wertymsd.github.io/Centralita_IA_forcemanager/)
 
-https://wertymsd.github.io/Centralita_IA_holded/
 
-https://github.com/wertyMSD/Centralita_IA_holded
+https://github.com/wertyMSD/Centralita_IA_forcemanager
 
 
 # Requisitos Previos / Prerequisites
